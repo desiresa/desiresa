@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5168&color=3FFF16&lines=Welcome+to+my+Github+Profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5168&color=3BD400&lines=Welcome+to+my+Github+Profile!)](https://git.io/typing-svg)
 
 
 ![Visitor Count](https://profile-counter.glitch.me/desiresa/count.svg)
