@@ -2,12 +2,13 @@
 
 
 
-
 <!--
 **desiresa/desiresa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=desiresa&layout=compact)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=desiresa)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shinokada)
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=217w7bfsvmpsnte24ouaiqyba&cover_image=true&theme=novatorem&bar_color=e09b06&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
