@@ -33,12 +33,11 @@
  
  <div align="center">
   
-  
-<div>
-  
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5168&color=3BD400&lines=Have+a+Good+Day+!)](https://git.io/typing-svg)
   
-<img src="https://github.com/fnky/fnky/raw/fnky/img/smile.gif" alt="Smiley" align="center">
+  ![agility](https://user-images.githubusercontent.com/68185274/163007459-1356b6e9-8110-4837-ba90-37f40bd63492.gif)
+
+  
 </div>
 </div>
 <!--
